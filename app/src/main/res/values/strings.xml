@@ -21,7 +21,7 @@
     <string name="news_fragment_label">Sports News</string>
 
     <string name="title_placeholder">Title</string>
-    <string name="news_title">News</string>
+    <string name="news_title">Berita</string>
     <string name="sports_info_placeholder">Here is some news</string>
     <string name="sports_news_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
@@ -30,26 +30,26 @@
     />
 
     <string name="baseball">Baseball</string>
-    <string name="badminton">Badminton</string>
-    <string name="basketball">Basketball</string>
+    <string name="badminton">Bulu Tangkis</string>
+    <string name="basketball">Bola Basket</string>
     <string name="bowling">Bowling</string>
-    <string name="cycling">Cycling</string>
+    <string name="cycling">Bersepeda</string>
     <string name="golf">Golf</string>
-    <string name="running">Running</string>
-    <string name="soccer">Soccer</string>
-    <string name="swimming">Swimming</string>
-    <string name="table_tennis">Table Tennis</string>
-    <string name="tennis">Tennis</string>
+    <string name="running">Berlari</string>
+    <string name="soccer">Sepak Bola</string>
+    <string name="swimming">Berenang</string>
+    <string name="table_tennis">Tenis Meja</string>
+    <string name="tennis">Tenis</string>
 
-    <string name="baseball_subtitle">Here is some Baseball news!</string>
-    <string name="badminton_subtitle">Here is some Badminton news!</string>
-    <string name="basketball_subtitle">Here is some Basketball news!</string>
-    <string name="bowling_subtitle">Here is some Bowling news!</string>
-    <string name="cycling_subtitle">Here is some Cycling news!</string>
-    <string name="golf_subtitle">Here is some Golf news!</string>
-    <string name="running_subtitle">Here is some Running news!</string>
-    <string name="soccer_subtitle">Here is some Soccer news!</string>
-    <string name="swimming_subtitle">Here is some Swimming news!</string>
-    <string name="table_tennis_subtitle">Here is some Table Tennis news!</string>
-    <string name="tennis_subtitle">Here is some Tennis news!</string>
+    <string name="baseball_subtitle">Berita terkait Baseball!</string>
+    <string name="badminton_subtitle">Berita terkait Bulu Tangkis!</string>
+    <string name="basketball_subtitle">Berita terkait Bola Basket!</string>
+    <string name="bowling_subtitle">Berita terkait Bowling!</string>
+    <string name="cycling_subtitle">Berita terkait Bersepeda!</string>
+    <string name="golf_subtitle">Berita terkait Golf!</string>
+    <string name="running_subtitle">Berita terkait Berlari!</string>
+    <string name="soccer_subtitle">Berita terkait Sepak Bole!</string>
+    <string name="swimming_subtitle">Berita terkait Berenang!</string>
+    <string name="table_tennis_subtitle">Berita terkait Tenis Meja!</string>
+    <string name="tennis_subtitle">Berita terkait Tenis!</string>
 </resources>
